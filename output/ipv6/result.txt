@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-11 22:02:37,https://iptv.catvod.com/live.php?id=CCTV1&line=16
+2026-09-13 22:04:47,https://iptv.catvod.com/live.php?id=CCTV1&line=16
 
 📺央视频道,#genre#
 CCTV-1,https://iptv.catvod.com/live.php?id=CCTV1&line=16
